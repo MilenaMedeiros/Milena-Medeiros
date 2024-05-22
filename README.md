@@ -2,7 +2,7 @@
 
 Meu nome é Milena
 
--Estou estudando na plataforma Alura
+-Estou estudando na plataforma [Alura](https:\\www.alura.com.br)
 -Estou me desenvolvendo na linguagem JavaScript
 -Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
@@ -11,3 +11,4 @@ Meu nome é Milena
 
 
 ![](https://media.tenor.com/e0osqzyIJIkAAAAM/hello-kitty-sanrio.gif)
+
